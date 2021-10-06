@@ -5,8 +5,8 @@ bio: ""
 interests:
   - Graph Representation Learning
   - Relational Learning
-  - Applications of Group Theory Representation Theory Invariant Theory to Deep
-    Learning
+  - Applications of Group Theory; Representation Theory; Invariant Theory to
+    Deep Learning
 social:
   - icon: envelope
     icon_pack: fas
