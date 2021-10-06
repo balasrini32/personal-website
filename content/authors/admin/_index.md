@@ -1,46 +1,42 @@
 ---
 title: Balasubramaniam Srinivasan
-role: PhD Student at Purdue University
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: PhD Student in Computer Science at Purdue University
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Graph Representation Learning
+  - Relational Learning
+  - Applications of Group Theory Representation Theory Invariant Theory to Deep
+    Learning
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: bsriniv@purdue.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/balasrini32
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=uM4EhgEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/balasrini32
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/balasubramaniam-srinivasan/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Purdue University
 education:
   courses:
-    - course: B.E.(Hons) EEE
-      institution: Birla Institute of Technology and Science, Pilani (BITS Pilani)
-      year: 2015
-    - course: M.S. Computer Science
+    - course: PhD Computer Science, 2018-2022
+      institution: Purdue University
+    - course: M.S. Computer Science, 2016-2018
       institution: UC San Diego
-      year: 2014
+      year: ""
+    - course: B.E.(Hons) Electrical and Electronics Engineering, 2011-2015
+      institution: BITS Pilani
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Hi! I am Balasubramaniam (Bala)
