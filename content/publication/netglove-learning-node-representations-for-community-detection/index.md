@@ -8,7 +8,7 @@ authors:
   - Kumaran Gunasekaran*
   - Sudarshan Srinivasa Ramanujam*
   - Fragkiskos Malliaros
-publication: International Conference on Complex Networks and Their Applications
+publication: 6th International Conference on Complex Networks and Their Applications
 abstract: >-
   Community detection is a fundamental task in network analysis, with plenty of
   applications in social networking, biology and neuroscience. In the related
