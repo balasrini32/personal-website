@@ -34,14 +34,15 @@ title: "Janossy Pooling: Learning Deep Permutation-Invariant Functions for
   Variable-Size Inputs"
 subtitle: ""
 doi: ""
-featured: true
+featured: false
 tags: []
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
+  filename: null
 date: 2018-11-06T02:46:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
