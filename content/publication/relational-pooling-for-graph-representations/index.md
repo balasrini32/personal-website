@@ -23,8 +23,8 @@ abstract: This work generalizes graph neural networks (GNNs) beyond those based
 draft: false
 featured: false
 projects:
-  - example
-slides: example
+  - "1903.02541"
+slides: "1903.02541"
 image:
   filename: ""
   focal_point: ""
