@@ -22,6 +22,9 @@ abstract: This work generalizes graph neural networks (GNNs) beyond those based
   a number of tasks.
 draft: false
 featured: false
+projects:
+  - example
+slides: example
 image:
   filename: ""
   focal_point: ""
