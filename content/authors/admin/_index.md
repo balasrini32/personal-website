@@ -39,4 +39,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi! I am Balasubramaniam (Bala)
+Hi! I am Balasubramaniam (Bala) a PhD student in the computer science department at Purdue University
