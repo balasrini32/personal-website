@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: Home
+widget_id: admin
 weight: 10
 title: Biography
 active: true
