@@ -1,0 +1,27 @@
+---
+title: Equivariant Subgraph Aggregation Networks
+publication_types:
+  - "3"
+authors:
+  - Beatrice Bevilacqua*
+  - Fabrizio Frasca*
+  - Derek Lim*
+  - admin
+  - Chen Cai
+  - Gopinath Balamurugan
+  - Michael M. Bronstein
+  - Haggai Maron
+abstract: >-
+  Message-passing neural networks (MPNNs) are the leading architecture for deep
+
+  learning on graph-structured data, in large part due to their simplicity and scalability. Unfortunately, it was shown that these architectures are limited in their expressive power. This paper proposes a novel framework called Equivariant Subgraph Aggregation Networks (ESAN) to address this issue. Our main observation is that while two graphs may not be distinguishable by an MPNN, they often contain distinguishable subgraphs. Thus, we propose to represent each graph as a set of subgraphs derived by some predefined policy, and to process it using a
+
+  suitable equivariant architecture. We develop novel variants of the 1-dimensional Weisfeiler-Leman (1-WL) test for graph isomorphism, and prove lower bounds on the expressiveness of ESAN in terms of these new WL variants. We further prove that our approach increases the expressive power of both MPNNs and more expressive architectures. Moreover, we provide theoretical results that describe how design choices such as the subgraph selection policy and equivariant neural architecture affect our architecture’s expressive power. To deal with the increased computational cost, we propose a subgraph sampling scheme, which can be viewed as a stochastic version of our framework. A comprehensive set of experiments on real and synthetic datasets demonstrates that our framework improves the expressive power and overall performance of popular GNN architectures.
+draft: false
+featured: false
+image:
+  filename: ""
+  focal_point: ""
+  preview_only: false
+date: 2021-10-07T14:10:54.412Z
+---
