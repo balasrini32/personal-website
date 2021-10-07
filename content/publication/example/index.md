@@ -13,7 +13,7 @@ abstract: "We consider a simple and overarching representation for
   existing work in the literature, and suggests possible modeling and
   algorithmic extensions. We explore a few in our experiments, which demonstrate
   improved performance over current state-of-the-art methods."
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
@@ -37,7 +37,7 @@ doi: ""
 featured: false
 tags: []
 projects:
-  - example
+  - "1811.01900"
 image:
   caption: ""
   focal_point: ""
