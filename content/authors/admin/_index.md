@@ -1,6 +1,6 @@
 ---
 title: Balasubramaniam Srinivasan
-role: PhD Student in Computer Science at Purdue University
+role: PhD Student in Computer Science
 bio: ""
 interests:
   - Graph Representation Learning
