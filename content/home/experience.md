@@ -58,8 +58,8 @@ experience:
     company: ARM
     company_url: ''
     company_logo: org-arm
-    date_start: '2017-06-01'
-    date_end: '2017-09-01'
+    date_start: '2015-07-01'
+    date_end: '2016-06-01'
     description: Analyzed SPEC (via clustering techniques) and streaming workload performance for mobile and enterprise systems with strong emphasis on big. LITTLE clusters, interconnect and memory. Developed and characterized benchmarks for the cache hierarchy and memory controllers Developed a light weight architecture agnostic Power Model with an accuracy of 97\% represented by a multivariate linear regression of various PMU counters, learnt from carefully selected micros. Developed a scheduler for a shared emulator, modeled as a constraint satisfaction problem.
 
   - title: Research Intern
