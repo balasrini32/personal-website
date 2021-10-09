@@ -1,7 +1,7 @@
 ---
 title: Balasubramaniam Srinivasan
 role: PhD Student in Computer Science
-avatar_filename: profile.jpeg.jpeg
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Graph Representation Learning
