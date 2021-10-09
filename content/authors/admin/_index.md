@@ -42,6 +42,6 @@ highlight_name: true
 ---
 Hi! I am Balasubramaniam (Bala) a fourth year PhD student in the Computer Science department at Purdue University. 
 
-I am broadly interested in the application of group theory, representation theory, invariant theory to deep learning, enriching neural networks with knowledge about  the structures and symmetries in data.  My work finds real world applications in sets, images, graphs (e.g. social networks, molecules, etc).
+I am broadly interested in the application of group theory, representation theory, invariant theory to deep learning -  enriching neural networks with knowledge about  the structures and symmetries in data.  My work finds real world applications in sets, images, graphs (e.g. social networks, molecules, etc).
 
 I did my undergrad at BITS Pilani and did my masters at UC San Diego. You can find my [CV here](https://balasrini32.netlify.app/uploads/Bala_CV_Oct21.pdf).
