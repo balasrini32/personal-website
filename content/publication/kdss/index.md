@@ -11,6 +11,8 @@ authors:
   - Gopinath Balamurugan
   - Michael M. Bronstein
   - Haggai Maron
+publication: International Conference on Learning Representations
+publication_short: ICLR 2022 (Spotlight)
 abstract: >-
   Message-passing neural networks (MPNNs) are the leading architecture for deep
 
